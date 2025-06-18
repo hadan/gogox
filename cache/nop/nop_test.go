@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/raymondwongso/gogox/cache/nop"
-	"github.com/raymondwongso/gogox/errorx"
+	"github.com/hadan/gogox/cache/nop"
+	"github.com/hadan/gogox/errorx"
 	"github.com/stretchr/testify/assert"
 )
 

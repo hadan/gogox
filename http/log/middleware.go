@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/raymondwongso/gogox/log"
+	"github.com/hadan/gogox/log"
 )
 
 type loggingResponseWriter struct {

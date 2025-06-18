@@ -1,7 +1,7 @@
 package zap
 
 import (
-	"github.com/raymondwongso/gogox/log"
+	"github.com/hadan/gogox/log"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

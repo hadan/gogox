@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/raymondwongso/gogox/log"
+	"github.com/hadan/gogox/log"
 	"github.com/stretchr/testify/assert"
 )
 

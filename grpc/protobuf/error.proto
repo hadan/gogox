@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package raymondwongso.gogox.grpc;
 
-option go_package = "github.com/raymondwongso/gogox/grpc/protobuf";
+option go_package = "github.com/hadan/gogox/grpc/protobuf";
 
 message Error {
   string code = 1;

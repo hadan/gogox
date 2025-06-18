@@ -3,7 +3,7 @@ package stats_test
 import (
 	"testing"
 
-	"github.com/raymondwongso/gogox/stats"
+	"github.com/hadan/gogox/stats"
 	"github.com/stretchr/testify/assert"
 )
 

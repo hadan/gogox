@@ -1,6 +1,6 @@
 package nop
 
-import "github.com/raymondwongso/gogox/log"
+import "github.com/hadan/gogox/log"
 
 // Logger is an implementation of Logger interface with zero ops.
 // commonly used for testing.

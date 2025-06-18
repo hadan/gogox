@@ -3,8 +3,8 @@ package trace
 import (
 	"net/http"
 
-	"github.com/raymondwongso/gogox/log"
-	"github.com/raymondwongso/gogox/trace"
+	"github.com/hadan/gogox/log"
+	"github.com/hadan/gogox/trace"
 )
 
 // TraceMiddleware provides middleware to inject traceID

@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/raymondwongso/gogox/errorx"
+	"github.com/hadan/gogox/errorx"
 )
 
 // Nop implements Cache interface with no operation, commonly used for testing

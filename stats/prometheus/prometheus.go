@@ -3,8 +3,8 @@ package prometheus
 import (
 	"fmt"
 
+	"github.com/hadan/gogox/stats"
 	"github.com/prometheus/client_golang/prometheus"
-	"github.com/raymondwongso/gogox/stats"
 )
 
 // Stats define prometheus stats.Stats implementor

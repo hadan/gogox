@@ -3,8 +3,8 @@ package zap_test
 import (
 	"testing"
 
-	"github.com/raymondwongso/gogox/log"
-	"github.com/raymondwongso/gogox/log/zap"
+	"github.com/hadan/gogox/log"
+	"github.com/hadan/gogox/log/zap"
 	"github.com/stretchr/testify/assert"
 
 	uber_zap "go.uber.org/zap"

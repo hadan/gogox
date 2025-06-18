@@ -6,7 +6,7 @@ import (
 	"path"
 	"time"
 
-	"github.com/raymondwongso/gogox/log"
+	"github.com/hadan/gogox/log"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

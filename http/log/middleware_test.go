@@ -6,12 +6,12 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/golang/mock/gomock"
-	httplog "github.com/raymondwongso/gogox/http/log"
-	"github.com/raymondwongso/gogox/log"
-	logmock "github.com/raymondwongso/gogox/log/mock"
-	"github.com/raymondwongso/gogox/log/nop"
+	httplog "github.com/hadan/gogox/http/log"
+	"github.com/hadan/gogox/log"
+	logmock "github.com/hadan/gogox/log/mock"
+	"github.com/hadan/gogox/log/nop"
 	"github.com/stretchr/testify/assert"
+	"go.uber.org/mock/gomock"
 )
 
 type mdHeaderCustomMatcher struct {

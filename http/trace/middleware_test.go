@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/raymondwongso/gogox/http/trace"
+	"github.com/hadan/gogox/http/trace"
 	"github.com/stretchr/testify/assert"
 )
 

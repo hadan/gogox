@@ -26,7 +26,7 @@ You can inject stats implementor using provided adapter.
 ```go
 
 import (
-  gogox_prom "github.com/raymondwongso/gogox/stats/prometheus"
+  gogox_prom "github.com/hadan/gogox/stats/prometheus"
 )
 
 func main() {

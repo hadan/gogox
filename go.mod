@@ -1,17 +1,17 @@
-module github.com/raymondwongso/gogox
+module github.com/hadan/gogox
 
-go 1.19
+go 1.24
 
 require (
 	github.com/bradfitz/gomemcache v0.0.0-20230124162541-5f7a7d875746
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-redis/redismock/v8 v8.11.5
-	github.com/golang/mock v1.4.4
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.0
 	github.com/prometheus/client_golang v1.14.0
 	github.com/segmentio/ksuid v1.0.4
 	github.com/sirupsen/logrus v1.9.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.9.0
+	go.uber.org/mock v0.5.2
 	go.uber.org/zap v1.24.0
 	golang.org/x/exp v0.0.0-20230131160201-f062dba9d201
 	google.golang.org/grpc v1.52.3

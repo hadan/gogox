@@ -3,8 +3,8 @@ package trace
 import (
 	"context"
 
-	"github.com/raymondwongso/gogox/log"
-	"github.com/raymondwongso/gogox/trace"
+	"github.com/hadan/gogox/log"
+	"github.com/hadan/gogox/trace"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 )

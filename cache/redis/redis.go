@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis/v8"
-	"github.com/raymondwongso/gogox/errorx"
+	"github.com/hadan/gogox/errorx"
 )
 
 // Redis implements Cache interface for redis memory storage

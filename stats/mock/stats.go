@@ -7,8 +7,8 @@ package statsmock
 import (
 	reflect "reflect"
 
-	gomock "github.com/golang/mock/gomock"
-	stats "github.com/raymondwongso/gogox/stats"
+	gomock "go.uber.org/mock/gomock"
+	stats "github.com/hadan/gogox/stats"
 )
 
 // MockStats is a mock of Stats interface.

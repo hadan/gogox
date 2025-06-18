@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/raymondwongso/gogox/sugar"
+	"github.com/hadan/gogox/sugar"
 	"github.com/stretchr/testify/assert"
 )
 

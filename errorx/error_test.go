@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/raymondwongso/gogox/errorx"
+	"github.com/hadan/gogox/errorx"
 	"github.com/stretchr/testify/assert"
 )
 

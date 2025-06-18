@@ -28,7 +28,7 @@ func (s *service) DoSomething() error {
 import (
   "github.com/sirupsen/logrus"
 
-	gogox_logrus "github.com/raymondwongso/gogox/log/logrus"
+	gogox_logrus "github.com/hadan/gogox/log/logrus"
 )
 
 func main() {

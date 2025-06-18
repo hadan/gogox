@@ -3,8 +3,8 @@ package logrus_test
 import (
 	"testing"
 
-	"github.com/raymondwongso/gogox/log"
-	"github.com/raymondwongso/gogox/log/logrus"
+	"github.com/hadan/gogox/log"
+	"github.com/hadan/gogox/log/logrus"
 	sirupsen_logrus "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

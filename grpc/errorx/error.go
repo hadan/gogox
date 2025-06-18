@@ -1,8 +1,8 @@
 package errorx
 
 import (
-	"github.com/raymondwongso/gogox/errorx"
-	"github.com/raymondwongso/gogox/grpc/protobuf"
+	"github.com/hadan/gogox/errorx"
+	"github.com/hadan/gogox/grpc/protobuf"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 	"google.golang.org/protobuf/runtime/protoiface"

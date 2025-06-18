@@ -7,8 +7,8 @@ package logmock
 import (
 	reflect "reflect"
 
-	gomock "github.com/golang/mock/gomock"
-	log "github.com/raymondwongso/gogox/log"
+	gomock "go.uber.org/mock/gomock"
+	log "github.com/hadan/gogox/log"
 )
 
 // MockLogger is a mock of Logger interface.

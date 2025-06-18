@@ -1,7 +1,7 @@
 package logrus
 
 import (
-	"github.com/raymondwongso/gogox/log"
+	"github.com/hadan/gogox/log"
 	"github.com/sirupsen/logrus"
 )
 

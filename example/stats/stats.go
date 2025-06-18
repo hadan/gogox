@@ -6,8 +6,8 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
-	"github.com/raymondwongso/gogox/stats"
-	gogox_prom "github.com/raymondwongso/gogox/stats/prometheus"
+	"github.com/hadan/gogox/stats"
+	gogox_prom "github.com/hadan/gogox/stats/prometheus"
 )
 
 var (

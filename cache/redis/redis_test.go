@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/go-redis/redismock/v8"
-	"github.com/raymondwongso/gogox/cache/redis"
-	"github.com/raymondwongso/gogox/errorx"
+	"github.com/hadan/gogox/cache/redis"
+	"github.com/hadan/gogox/errorx"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 

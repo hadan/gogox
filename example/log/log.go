@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/raymondwongso/gogox/log"
-	gogox_logrus "github.com/raymondwongso/gogox/log/logrus"
-	"github.com/raymondwongso/gogox/log/nop"
-	gogox_zap "github.com/raymondwongso/gogox/log/zap"
+	"github.com/hadan/gogox/log"
+	gogox_logrus "github.com/hadan/gogox/log/logrus"
+	"github.com/hadan/gogox/log/nop"
+	gogox_zap "github.com/hadan/gogox/log/zap"
 	"github.com/sirupsen/logrus"
 	"go.uber.org/zap"
 )

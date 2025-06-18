@@ -1,6 +1,6 @@
 package nop
 
-import "github.com/raymondwongso/gogox/stats"
+import "github.com/hadan/gogox/stats"
 
 // Nop implements Stats but with no operation.
 type Nop struct{}

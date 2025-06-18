@@ -3,7 +3,7 @@ package errorx
 import (
 	"context"
 
-	"github.com/raymondwongso/gogox/errorx"
+	"github.com/hadan/gogox/errorx"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 )

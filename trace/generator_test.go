@@ -3,7 +3,7 @@ package trace_test
 import (
 	"testing"
 
-	"github.com/raymondwongso/gogox/trace"
+	"github.com/hadan/gogox/trace"
 	"github.com/stretchr/testify/assert"
 )
 
